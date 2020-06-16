@@ -8,3 +8,13 @@ The GiG Open Board is a guild of people that moderate GiG's Open Source contribu
 
 * Slack: #gig-open
 * Email: open@gig.com
+
+## License
+
+Unless otherwise specified, the content of this microsite is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/), while the source-code for this project located on GitHub is licensed under [MIT](https://github.com/GiG/open/blob/master/LICENSE).
+
+## Attributions
+
+Some of the policies and guidelines here are adopted from the following sources:
+
+* [Google Open Source Documentation](https://opensource.google/docs/)
