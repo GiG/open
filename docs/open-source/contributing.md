@@ -6,15 +6,16 @@ GiG employees are encouraged to contribute to Open Source Software for various r
 * Improve their skills
 * E-Meet people from the community
 
-Contributions to Third-Party Open Source Software is not necessarily source-code contribution. Employees are also encouraged to contribute:
+!!! tip "Tip: Contributions to Third-Party Open Source Software is not necessarily source-code contribution"
+    You are also encouraged to contribute:
 
-* Documentation
-* Examples
-* Restructuring project layout (to improve usability)
-* Tutorials
-* Issue grooming
-* Answer questions (GitHub, Reddit, StackOverflow)
-* Moderate discussions
+    * Documentation
+    * Examples
+    * Restructuring project layout (to improve usability)
+    * Tutorials
+    * Issue grooming
+    * Answer questions (GitHub, Reddit, StackOverflow)
+    * Moderate discussions
 
 ## Before you contribute
 
