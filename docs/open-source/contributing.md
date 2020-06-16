@@ -16,3 +16,5 @@ Contributions to Third-Party Open Source Software is not necessarily source-code
 * Answer questions (GitHub, Reddit, StackOverflow)
 * Moderate discussions
 
+Remember, before you open an issue or pull request, check the project's contributing docs (usually a file called `CONTRIBUTING.md`, or in the `README.md`), to see whether you need to include anything specific. For example, they may ask that you follow a template, or require that you use tests.
+
