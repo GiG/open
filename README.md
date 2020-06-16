@@ -1,6 +1,6 @@
 # GiG Open
 
-This is the repository for the static documentation site for GiG Open.
+This is the repository for the static documentation site for [the GiG Open microsite](https://gig.github.io/open/).
 
 ## Building the site
 
