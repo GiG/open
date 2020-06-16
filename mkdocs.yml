@@ -7,6 +7,7 @@ theme:
         accent: green
     logo: assets/images/GiG logo_vector-04.svg
 nav:
+    - Welcome: index.md
     - Open Source:
         - Using: open-source/using.md
         - Contributing: open-source/contributing.md
