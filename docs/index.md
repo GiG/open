@@ -4,7 +4,9 @@ GiG Open is an initiative from GiG to contribute back to the community. Here at 
 
 ## GiG Open Board
 
-The GiG Open Board is a guild of people that moderate GiG's Open Source contributions. The board may be contacted on:
+The GiG Open Board is a guild of people that moderate GiG's Open Source contributions. Various departments form part of the GiG Open Team, namely: Architecture, InfoSec, Legal and Executives.
+
+The board may be contacted on:
 
 * Slack: #gig-open
 * Email: open@gig.com
@@ -18,3 +20,5 @@ Unless otherwise specified, the content of this microsite is licensed under [CC-
 Some of the policies and guidelines here are adopted from the following sources:
 
 * [Google Open Source Documentation](https://opensource.google/docs/)
+* [Open Source Guides](https://opensource.guide/)
+* [Producing Open Source Software: How to Run a Successful Free Software Project](https://producingoss.com/)
