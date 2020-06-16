@@ -42,4 +42,4 @@ We expect a commitment from the developers to:
 * Make sure there is a clear ChangeLog of changes from one version to the next
 * git commit messages, pull requests, comments and any public discussion should be done at a professional level, keeping in mind that they are visible by the public and affect GIG’s reputation
 
-As much as open-source projects can enhance GiG, leaving projects in a poor state can hurt it.
+As much as open-source projects can enhance GiG's reputation, leaving projects in a poor state can hurt it.
