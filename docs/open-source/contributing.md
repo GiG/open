@@ -24,7 +24,7 @@ Sometimes, you may find projects that require you to sign a Contributor License 
 
 ## Behavior
 
-Remember, that when contributing as a GiG Employee your actions reflect on GiG as well, so it's important to adopt GiG's values in your behavior. Namely:
+Remember, that when contributing as a GiG Employee your actions reflect on GiG as well, so it's important to adopt GiG's values in your behavior, namely:
 
 * Be considerate, kind, constructive, and helpful
 * Do not engage in demeaning, discriminatory, harassing, hateful, sexualized, or physically threatening behavior, speech, and imagery
