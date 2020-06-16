@@ -1,2 +1,6 @@
 site_name: GiG Open
 theme: cosmo
+nav:
+    - Open Source:
+        - Contributing: open-source/contributing.md
+    - Open Knowledge: open-knowledge.md
