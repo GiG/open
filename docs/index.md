@@ -2,6 +2,8 @@
 
 GiG Open is an initiative from GiG to contribute back to the community. Here at GiG, we rely a lot on open technologies so this is our way to give back; both software and knowledge.
 
+This documentation site contains the guidelines GiG Employees should follow when [using](open-source/using.md), [contributing](open-source/contributing.md) or [creating](open-source/creating.md) open source source software.
+
 ## GiG Open Board
 
 The GiG Open Board is a guild of people that moderate GiG's Open Source contributions. Various departments form part of the GiG Open Team, namely: Architecture, InfoSec, Legal and Executives.
