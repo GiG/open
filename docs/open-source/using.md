@@ -9,5 +9,5 @@ If you use open source technologies, we **strongly encourage you to [contribute]
 Remember to be careful and comply with the licenses. Besides, it’s the right thing to do out of respect for our fellow coders.
 
 !!! warning
-    GiG is adopting Google's stance on AGPL. **This means that software licensed under the AGPL is NOT allowed at GiG**. Do not attempt to check AGPL-licensed code into git or use it in a GiG product in any way. For more details visit [go/agpl](https://opensource.google/docs/using/agpl-policy/).
+    GiG is adopting Google's stance on AGPL. This means that software licensed under the AGPL is NOT allowed at GiG. **Do not attempt to check AGPL-licensed code into git or use it in a GiG product in any way.** For more details visit [go/agpl](https://opensource.google/docs/using/agpl-policy/).
 
