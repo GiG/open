@@ -14,18 +14,18 @@ We actively encourage employees to open-source internal software as much as poss
 3. The project has an appropriate `README.md`, `CONTRIBUTING.md`, Issue and pull request templates and `SECURITY.md`
 4. The project does not contain, or does not link to, GiG's "secret sauce" or sensitive data.
 5. Assurances should be made that any source-code we are using have licensing that permit the source-code to be open-sourced
-5. There are no secrets/API Keys/Password/GiG Hostnames/Domains (even in the git history)
-6. The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
-7. The issue queue is up-to-date, with issues clearly organized and labeled
-8. Project uses consistent code conventions and clear function/method/variable names
-9. The code is clearly commented, documenting intentions and edge cases
-10. There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
-11. The project is of high-quality and well-documented
-12. Had the project scanned and approved by GiG InfoSec Department
-13. Had the project approved by the GiG Open Source Initiative Office
-14. Make sure you are committed to maintaining the project
-15. An open-source project should have an open-source pipeline. Include build and deploy badges in your README
-16. Make sure that artifacts that are produced by the project should be publicly accessible. Example: NuGet Packages, Docker Containers, npm packages, etc…
+6. There are no secrets/API Keys/Password/GiG Hostnames/Domains (even in the git history)
+7. The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+8. The issue queue is up-to-date, with issues clearly organized and labeled
+9. Project uses consistent code conventions and clear function/method/variable names
+10. The code is clearly commented, documenting intentions and edge cases
+11. There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+12. The project is of high-quality and well-documented
+13. Had the project scanned and approved by GiG InfoSec Department
+14. Had the project approved by the GiG Open Source Initiative Office
+15. Make sure you are committed to maintaining the project
+16. An open-source project should have an open-source pipeline. Include build and deploy badges in your README
+17. Make sure that artifacts that are produced by the project should be publicly accessible. Example: NuGet Packages, Docker Containers, npm packages, etc…
 
 
 ## Commitment to Project Maintenance after going Open Source
