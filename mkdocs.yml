@@ -27,4 +27,6 @@ markdown_extensions:
     - codehilite
     - toc:
         permalink: true
-
+plugins:
+  - search
+  - git-revision-date-localized
