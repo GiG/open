@@ -10,7 +10,7 @@ We actively encourage employees to open-source internal software as much as poss
 ## Steps to Open Source an internal GiG Project
 
 1. The project has [the GiG MIT `LICENSE` file](https://github.com/GiG/open/blob/master/LICENSE)
-2. The project has [the GiG Contributor Covenant `CODE_OF_CONDUCT.md` file](https://github.com/GiG/open/blob/master/CODE_OF_CONDUCT.md)
+2. The project has [the GiG Contributor Covenant `CODE_OF_CONDUCT.md` file](https://github.com/GiG/open/blob/master/CODE_OF_CONDUCT.md) v2.0 or better
 3. The project has an appropriate `README.md`, `CONTRIBUTING.md`, Issue and pull request templates and `SECURITY.md`
 4. The project does not contain, or does not link to, GiG's "secret sauce" or sensitive data.
 5. Assurances should be made that any source-code we are using have licensing that permit the source-code to be open-sourced
