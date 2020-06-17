@@ -1,19 +1,21 @@
 site_name: GiG Open
 theme: 
     name: material
+    features:
+        - tabs    
     palette:
         scheme: preference
         primary: green
         accent: green
     logo: assets/images/GiG logo_vector-04.svg
 nav:
-    - Welcome: index.md
+    # - Welcome: index.md
     - Open Source:
         - Using: open-source/using.md
         - Contributing: open-source/contributing.md
         - Creating: open-source/creating.md
         - Projects: projects.md
-    - Open Knowledge: open-knowledge.md
+    # - Open Knowledge: open-knowledge.md
 repo_name: GiG/open
 repo_url: https://github.com/GiG/open
 extra:
