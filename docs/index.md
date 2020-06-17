@@ -11,7 +11,7 @@ The GiG Open Board is a guild of people that moderate GiG's Open Source contribu
 The board may be contacted on:
 
 * Internal Slack: #gig-open
-* Email: open@gig.com
+* Email: <open@gig.com>
 
 ## License
 
