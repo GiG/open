@@ -13,7 +13,7 @@ nav:
         - Contributing: open-source/contributing.md
         - Creating: open-source/creating.md
         - Projects: projects.md
-    - Open Knowledge: open-knowledge.md
+#   - Open Knowledge: open-knowledge.md
 repo_name: GiG/open
 repo_url: https://github.com/GiG/open
 extra:
