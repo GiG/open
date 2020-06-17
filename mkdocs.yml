@@ -28,7 +28,8 @@ markdown_extensions:
     - toc:
         permalink: true
 plugins:
-  - search
+  - search:
+        prebuild_index: true
   - git-revision-date-localized
   - minify:
         minify_html: true
