@@ -11,6 +11,7 @@ nav:
     - Open Source:
         - Using: open-source/using.md
         - Contributing: open-source/contributing.md
+        - Forking: open-source/forking.md
         - Creating: open-source/creating.md
         - Projects: projects.md
 #   - Open Knowledge: open-knowledge.md
