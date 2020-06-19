@@ -3,8 +3,6 @@ theme:
     name: material
     palette:
         scheme: preference
-        primary: green
-        accent: green
     logo: assets/images/GiG logo_vector-04.svg
 nav:
     - Welcome: index.md
