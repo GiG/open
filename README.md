@@ -29,3 +29,25 @@ INFO    -  Cleaning site directory
 Open up http://127.0.0.1:8000/ in your browser
 ```
 
+## Run Development Server with Docker
+
+
+First you need to build the image:
+
+```sh
+docker build . -t gig-open
+```
+
+Once the image is built, you can run the development server by mapping the MkDocs port and mounting your source volume to `/src` as follows:
+
+### Windows
+
+```cmd
+docker run --rm -it -v "%cd%":/src -p 8000:8000 gig-open
+```
+
+### Linux
+
+```sh
+docker run --rm -it -v ${PWD}:/src -p 8000:8000 gig-open
+```
