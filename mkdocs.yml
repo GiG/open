@@ -17,6 +17,8 @@ nav:
 #   - Open Knowledge: open-knowledge.md
 repo_name: GiG/open
 repo_url: https://github.com/GiG/open
+extra_css:
+    - stylesheets/extra.css
 extra:
     social:
       - icon: fontawesome/brands/github-alt
