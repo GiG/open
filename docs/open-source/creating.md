@@ -29,7 +29,7 @@ We actively encourage employees to open-source internal software as much as poss
 
 ## Commitment to project maintenance after going Open Source
 
-It is not enough that project are open-sourced. Developers that open-source projects must make a commitment to keep maintaining the open-source project
+It is not enough that projects are open-sourced. Developers that open-source projects must make a commitment to keep maintaining the open-source project
 
 !!! warning
     Idle projects that are left on public GIG Repositories that don’t contribute anything will be archived!
