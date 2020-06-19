@@ -1,6 +1,8 @@
 site_name: GiG Open
 theme: 
     name: material
+    font:
+        text: Inter
     palette:
         scheme: preference
     logo: assets/images/GiG logo_vector-04.svg

@@ -24,7 +24,6 @@
     --md-accent-bg-color--light:         #FFD100;
   
     /* Code block color shades */
-    
-    /* --md-code-bg-color:                  ...;
-    --md-code-fg-color:                  ...; */
+    --md-code-bg-color:                  #FFFFFF;
+    --md-code-fg-color:                  #171C3A;
   }
