@@ -6,6 +6,7 @@ theme:
     palette:
         scheme: preference
     logo: assets/images/GiG logo_vector-04.svg
+    custom_dir: overrides
 nav:
     - Welcome: index.md
     - Open Source:
@@ -20,6 +21,7 @@ repo_url: https://github.com/GiG/open
 extra_css:
     - stylesheets/extra.css
 extra:
+    manifest: site.webmanifest
     social:
       - icon: fontawesome/brands/github-alt
         link: https://github.com/GiG
