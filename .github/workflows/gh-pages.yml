@@ -48,7 +48,7 @@ jobs:
           
       - name: Zip Release
         run: |
-          zip --junk-paths site.zip ./site
+          zip site.zip ./site/
 
       - name: Create a Release
         uses: actions/create-release@v1
