@@ -1,3 +1,5 @@
+[![GitHub Pages](https://github.com/GiG/open/workflows/GitHub%20Pages/badge.svg)](https://github.com/GiG/open/actions?query=workflow%3A%22GitHub+Pages%22)
+
 # GiG Open
 
 This is the repository for the static documentation site for [the GiG Open microsite](https://gig.github.io/open/).
