@@ -23,7 +23,7 @@ extra_css:
 extra:
     manifest: site.webmanifest
     social:
-      - icon: fontawesome/brands/github-alt
+      - icon: fontawesome/brands/github
         link: https://github.com/GiG
       - icon: material/link-variant
         link: https://www.gig.com
