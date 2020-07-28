@@ -28,9 +28,9 @@ extra:
       - icon: fontawesome/brands/twitter
         link: https://twitter.com/GIG_online
       - icon: fontawesome/brands/linkedin
-        link: https://www.linkedin.com/company/gig-gaming-innovation-group/
+        link: https://linkedin.com/company/gig-gaming-innovation-group/
       - icon: material/link-variant
-        link: https://www.gig.com
+        link: https://gig.com
 markdown_extensions:
     - admonition
     - codehilite
