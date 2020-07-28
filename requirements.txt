@@ -19,7 +19,7 @@ mkdocs-material-extensions==1.0b2
 mkdocs-minify-plugin==0.3.0
 nltk==3.5
 numpy==1.18.3
-opencv-python==4.2.0.34
+opencv-python==4.3.0.36
 Pygments==2.6.1
 pymdown-extensions==7.1
 pytz==2020.1
