@@ -25,6 +25,10 @@ extra:
     social:
       - icon: fontawesome/brands/github
         link: https://github.com/GiG
+      - icon: fontawesome/brands/twitter
+        link: https://twitter.com/GIG_online
+      - icon: fontawesome/brands/linkedin
+        link: https://www.linkedin.com/company/gig-gaming-innovation-group/
       - icon: material/link-variant
         link: https://www.gig.com
 markdown_extensions:
