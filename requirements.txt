@@ -6,7 +6,7 @@ GitPython==3.1.7
 htmlmin==0.1.12
 imageio-ffmpeg==0.4.2
 Jinja2==2.11.2
-joblib==0.14.1
+joblib==0.16.0
 jsmin==2.2.2
 livereload==2.6.2
 lunr==0.5.6
