@@ -1,4 +1,4 @@
-[![GitHub Pages](https://github.com/GiG/open/workflows/GitHub%20Pages/badge.svg)](https://github.com/GiG/open/actions?query=workflow%3A%22GitHub+Pages%22)
+[![GitHub Pages](https://github.com/GiG/open/workflows/GitHub%20Pages/badge.svg?branch=master)](https://github.com/GiG/open/actions?query=workflow%3A%22GitHub+Pages%22)
 
 # GiG Open
 
