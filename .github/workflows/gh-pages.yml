@@ -47,9 +47,8 @@ jobs:
           publish_dir: ./site
           
       - name: Zip Release
-        uses: TheDoctor0/zip-release@0.4.1
-        with:
-          path: ./site
+        run: |
+          zip --junk-paths ./site
 
       - name: Create a Release
         uses: actions/create-release@v1
@@ -60,6 +59,6 @@ jobs:
         uses: actions/upload-release-asset@v1.0.2
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./release.zip
-          asset_name: release.zip
+          asset_path: ./site.zip
+          asset_name: site.zip
           asset_content_type: application/zip
