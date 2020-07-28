@@ -38,4 +38,11 @@ jobs:
       - name: Install dependencies
         run: python3 -m pip install -r ./requirements.txt
 
-      - run: mkdocs build
+      - name: MkDocs Build
+        run: mkdocs build
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: site
+          path: ./site
