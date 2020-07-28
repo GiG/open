@@ -40,6 +40,11 @@ jobs:
 
       - name: Build MkDocs
         run: mkdocs build
+      
+      - uses: actions/upload-artifact@v2
+        with:
+          name: site
+          path: ./site
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
@@ -52,6 +57,7 @@ jobs:
           zip site.zip ./site/
 
       - name: Create a Release
+        id: create_release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
