@@ -55,7 +55,7 @@ jobs:
           
       - name: Zip Release
         run: |
-          zip site.zip ./site/
+          zip -r site.zip site
 
       - name: Create a Release
         id: create_release
