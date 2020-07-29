@@ -38,7 +38,7 @@ jobs:
         run: python3 -m pip install -r ./requirements.txt
 
       - name: Replace Version in mkdocs.yml
-        uses: datamonsters/replace-action
+        uses: datamonsters/replace-action@v2
         with:
           files: 'mkdocs.yml'
           replacements: '$ver=0.${{ github.run_number }}'
