@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
         with:
@@ -20,7 +20,6 @@ jobs:
 
       - name: Upgrade pip
         run: |
-          # install pip=>20.1 to use "pip cache dir"
           python3 -m pip install --upgrade pip
 
       - name: Get pip cache dir
@@ -37,6 +36,12 @@ jobs:
 
       - name: Install dependencies
         run: python3 -m pip install -r ./requirements.txt
+
+      - name: Replace Version in mkdocs.yml
+        uses: datamonsters/replace-action
+        with:
+          files: 'mkdocs.yml'
+          replacements: '$ver=0.${{ github.run_number }}'
 
       - name: Build MkDocs
         run: mkdocs build
@@ -64,7 +69,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: 0.${{ github.run_number }}
-          release_name: Release 0.${{ github.run_number }}
+          release_name: GiG Open 0.${{ github.run_number }}
         
       - name: Upload a Release Asset
         uses: actions/upload-release-asset@v1.0.2

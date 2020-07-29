@@ -1,4 +1,5 @@
 site_name: GiG Open
+copyright: GiG Open ($ver)
 theme: 
     name: material
     font:
