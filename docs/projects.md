@@ -15,3 +15,4 @@
 * [borisermakof/serilog-sinks-fluentd](https://github.com/borisermakof/serilog-sinks-fluentd)
 * [killwort/ClickHouse-Net](https://github.com/killwort/ClickHouse-Net)
 * [learnk8s/kubernetes-production-best-practices](https://github.com/learnk8s/kubernetes-production-best-practices)
+* [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
