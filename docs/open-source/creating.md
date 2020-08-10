@@ -1,6 +1,6 @@
 # Creating Open Source Software (or open-sourcing internal software)
 
-There are serious legal implications anytime a GIGster open-sources code. The GiG Open Source Initiative has a process that you must follow to help us comply with our legal and ethical obligations.
+There are serious legal implications anytime a GiGster open-sources code. The GiG Open Source Initiative has a process that you must follow to help us comply with our legal and ethical obligations.
 
 We actively encourage employees to open-source internal software as much as possible as long as the projects meet GiG's Open Source requirements.
 
@@ -32,7 +32,7 @@ We actively encourage employees to open-source internal software as much as poss
 It is not enough that projects are open-sourced. Developers that open-source projects must make a commitment to keep maintaining the open-source project
 
 !!! warning
-    Idle projects that are left on public GIG Repositories that don’t contribute anything will be archived!
+    Idle projects that are left on public GiG Repositories that don’t contribute anything will be archived!
 
 We expect a commitment from the developers to:
 
@@ -40,6 +40,6 @@ We expect a commitment from the developers to:
 * Pull requests are not ignored
 * Make sure people from the community can get in contact with the people running the project
 * Make sure there is a clear ChangeLog of changes from one version to the next
-* git commit messages, pull requests, comments and any public discussion should be done at a professional level, keeping in mind that they are visible by the public and affect GIG’s reputation
+* git commit messages, pull requests, comments and any public discussion should be done at a professional level, keeping in mind that they are visible by the public and affect GiG’s reputation
 
 As much as open-source projects can enhance GiG's reputation, leaving projects in a poor state can hurt it.
