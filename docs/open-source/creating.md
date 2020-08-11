@@ -25,7 +25,7 @@ We actively encourage employees to open-source internal software as much as poss
 14. Had the project approved by the GiG Open Source Initiative Office
 15. Make sure you are committed to maintaining the project
 16. An open-source project should have an open-source pipeline. Include build and deploy badges in your README
-17. Make sure that artifacts that are produced by the project should be publicly accessible. Example: NuGet Packages, Docker Containers, npm packages, etc…
+17. Artifacts that are produced by the project should be publicly accessible. Example: NuGet Packages (nuget.org), Docker Containers (Docker Hub), npm packages (npmjs), Maven (Maven Central), RubyGems (RubyGems.org), pip Packages (pypi.org), etc…
 
 ## Commitment to project maintenance after going Open Source
 
