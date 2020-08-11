@@ -41,5 +41,6 @@ plugins:
   - search:
         prebuild_index: true
   - git-revision-date-localized
+        type: timeago
   - minify:
         minify_html: true
