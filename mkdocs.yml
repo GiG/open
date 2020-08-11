@@ -40,7 +40,7 @@ markdown_extensions:
 plugins:
   - search:
         prebuild_index: true
-  - git-revision-date-localized
+  - git-revision-date-localized:
         type: timeago
   - minify:
         minify_html: true
