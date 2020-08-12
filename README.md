@@ -2,7 +2,7 @@
 
 # GiG Open
 
-This is the repository for the static documentation site for [the GiG Open microsite](https://gig.github.io/open/).
+This is the repository for the static documentation site for [the open.gig.com microsite](https://open.gig.com/).
 
 ## Building the site
 
