@@ -47,3 +47,6 @@ plugins:
         type: timeago
   - minify:
         minify_html: true
+google_analytics:
+  - UA-58794498-6
+  - auto
