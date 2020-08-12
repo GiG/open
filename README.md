@@ -6,7 +6,7 @@ This is the repository for the static documentation site for [the GiG Open micro
 
 ## Building the site
 
-This project is based on [MkDocs](https://www.mkdocs.org/). To build this project you'll need Python installed on your system, the Python package manager, `pip` as well as the `mkdocs` package. You can check if you have these already installed from the command line:
+This project is based on [MkDocs](https://www.mkdocs.org/) using the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme. To build this project you'll need Python installed on your system, the Python package manager, `pip` as well as the `mkdocs` package. You can check if you have these already installed from the command line:
 
 ```sh
 $ python --version
