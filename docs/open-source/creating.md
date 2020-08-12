@@ -7,25 +7,26 @@ We actively encourage employees to open-source internal software as much as poss
 !!! question "When not to Open Source a Project?"
     In general, the number one reason not to open source a project is that it includes, or links to, GiG's "secret sauce" or sensitive data because doing so can create security issues or erode our competitive advantage. If in doubt, contact the open-source team on <open@gig.com>
 
-## Steps to Open Source an internal GiG Project
+## Checklist for Open Sourcing an internal GiG Project
 
-1. The project has [the GiG MIT `LICENSE` file](https://github.com/GiG/open/blob/master/LICENSE)
-2. The project has [the GiG Contributor Covenant `CODE_OF_CONDUCT.md` file](https://github.com/GiG/open/blob/master/CODE_OF_CONDUCT.md) v2.0 or better
-3. The project has an appropriate `README.md`, `CONTRIBUTING.md`, Issue and pull request templates and `SECURITY.md`
-4. The project does not contain, or does not link to, GiG's "secret sauce" or sensitive data.
-5. Assurances should be made that any source-code we are using have licensing that permit the source-code to be open-sourced
-6. There are no secrets/API Keys/Password/GiG Hostnames/Domains (even in the git history)
-7. The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
-8. The issue queue is up-to-date, with issues clearly organized and labeled
-9. Project uses consistent code conventions and clear function/method/variable names
-10. The code is clearly commented, documenting intentions and edge cases
-11. There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
-12. The project is of high-quality, well documented and well tested
-13. Had the project scanned and approved by GiG InfoSec Department
-14. Had the project approved by the GiG Open Source Initiative Office
-15. Make sure you are committed to maintaining the project
-16. An open-source project should have an open-source pipeline. Include build and deploy badges in your README
-17. Artifacts that are produced by the project should be publicly accessible. Example: NuGet Packages (nuget.org), Docker Containers (Docker Hub), npm packages (npmjs), Maven (Maven Central), RubyGems (RubyGems.org), pip Packages (pypi.org), etc…
+* [ ] The project has [the GiG MIT `LICENSE` file](https://github.com/GiG/open/blob/master/LICENSE)
+* [ ] The project has [the GiG Contributor Covenant `CODE_OF_CONDUCT.md` file](https://github.com/GiG/open/blob/master/CODE_OF_CONDUCT.md) v2.0 or better
+* [ ] The project has an appropriate `README.md`, `CONTRIBUTING.md`, Issue and pull request templates and `SECURITY.md`
+* [ ] The project does not contain, or does not link to, GiG's "secret sauce" or sensitive data.
+* [ ] Assurances should be made that any source-code we are using have licensing that permit the source-code to be open-sourced
+* [ ] There are no secrets/API Keys/Password/GiG Hostnames/Domains (even in the git history)
+* [ ] The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+* [ ] An open-source project should have an open-source pipeline. Include build and deploy badges in your README
+* [ ] Artifacts that are produced by the project should be publicly accessible. Example: NuGet Packages (nuget.org), Docker Containers (Docker Hub), npm packages (npmjs), Maven (Maven Central), RubyGems (RubyGems.org), pip Packages (pypi.org), etc…
+* [ ] The issue queue is up-to-date, with issues clearly organized and labeled
+* [ ] Project uses consistent code conventions and clear function/method/variable names
+* [ ] The code is clearly commented, documenting intentions and edge cases
+* [ ] There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other non-public information)
+* [ ] The project is of high-quality, well documented and well tested
+* [ ] Had the project scanned and approved by GiG InfoSec Department
+* [ ] Had the project approved by the GiG Open Initiative Office
+* [ ] Make sure you are committed to maintaining the project
+
 
 ## Commitment to project maintenance after going Open Source
 
