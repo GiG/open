@@ -27,7 +27,6 @@ We actively encourage employees to open-source internal software as much as poss
 * [ ] Had the project approved by the GiG Open Initiative Office
 * [ ] Make sure you are committed to maintaining the project
 
-
 ## Commitment to project maintenance after going Open Source
 
 It is not enough that projects are open-sourced. Developers that open-source projects must make a commitment to keep maintaining the open-source project
@@ -38,9 +37,10 @@ It is not enough that projects are open-sourced. Developers that open-source pro
 We expect a commitment from the developers to:
 
 * Make sure that issues are not left unresolved for an unreasonable amount of time
-* Pull requests are not ignored
+* Make sure that pull requests are not ignored
 * Make sure people from the community can get in contact with the people running the project
 * Make sure there is a clear ChangeLog of changes from one version to the next
 * git commit messages, pull requests, comments and any public discussion should be done at a professional level, keeping in mind that they are visible by the public and affect GiG’s reputation
 
-As much as open-source projects can enhance GiG's reputation, leaving projects in a poor state can hurt it.
+!!! warning
+    As much as open-source projects can enhance GiG's reputation, leaving projects in a poor state can hurt it.
