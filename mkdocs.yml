@@ -26,6 +26,8 @@ extra:
     social:
       - icon: fontawesome/brands/github
         link: https://github.com/GiG
+      - icon: fontawesome/brands/gitter
+        link: https://gitter.im/GiG/open
       - icon: fontawesome/brands/twitter
         link: https://twitter.com/GIG_online
       - icon: fontawesome/brands/linkedin
