@@ -81,7 +81,7 @@ jobs:
         uses: datamonsters/replace-action@v2
         with:
           files: 'mkdocs.yml'
-          replacements: '$ver=${{ steps.gitversion.outputs.fullSemVer }}'
+          replacements: '$ver=${{ steps.gitversion.outputs.semVer }}'
 
       - name: Build MkDocs
         run: mkdocs build
@@ -110,7 +110,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ steps.gitversion.outputs.fullSemVer }}
-          release_name: GiG Open ${{ steps.gitversion.outputs.fullSemVer }}
+          release_name: GiG Open ${{ steps.gitversion.outputs.semVer }}
         
       - name: Upload a Release Asset
         uses: actions/upload-release-asset@v1.0.2
