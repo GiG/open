@@ -109,7 +109,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ steps.gitversion.outputs.fullSemVer }}
+          tag_name: ${{ steps.gitversion.outputs.semVer }}
           release_name: GiG Open ${{ steps.gitversion.outputs.semVer }}
         
       - name: Upload a Release Asset
