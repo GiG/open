@@ -3,27 +3,32 @@
   /* Default color shades */
   --md-default-fg-color:               #171C3A;
   --md-default-fg-color--light:        #41455F;
-  --md-default-fg-color--lighter:      #4E75FF;
+  --md-default-fg-color--lighter:      #0590DD;
   --md-default-fg-color--lightest:     #8B8D9C;
-  --md-default-bg-color:               #F6F6FB;
-  --md-default-bg-color--light:        #F1F2F9;
-  --md-default-bg-color--lighter:      #F6F6FB;
+  --md-default-bg-color:               #FFFFFF;
+  --md-default-bg-color--light:        #FFFFFF;
+  --md-default-bg-color--lighter:      #FFFFFF;
   --md-default-bg-color--lightest:     #FFFFFF;
 
   /* Primary color shades */
-  --md-primary-fg-color:               #0037FF;
-  --md-primary-fg-color--light:        #4E75FF;
-  --md-primary-fg-color--dark:         #9DB2FF;
+  --md-primary-fg-color:               #0040AE;
+  --md-primary-fg-color--light:        #0590DD;
+  --md-primary-fg-color--dark:         #1E1D62;
   --md-primary-bg-color:               #FFFFFF;
   --md-primary-bg-color--light:        #FFFFFF;
 
   /* Accent color shades */
-  --md-accent-fg-color:                #FFD100;
-  --md-accent-fg-color--transparent:   #FFD100;
-  --md-accent-bg-color:                #FFD100;
-  --md-accent-bg-color--light:         #FFD100;
+  --md-accent-fg-color:                #57E5CA;
+  --md-accent-fg-color--transparent:   #57E5CA;
+  --md-accent-bg-color:                #57E5CA;
+  --md-accent-bg-color--light:         #57E5CA;
 
   /* Code block color shades */
   --md-code-bg-color:                  #FFFFFF;
   --md-code-fg-color:                  #171C3A;
+}
+
+.md-header {
+  background-image: url(https://www.gig.com/wp-content/uploads/2020/10/Background-Pattern.png);
+  background-position-y: -590px;
 }
