@@ -1,4 +1,4 @@
-[![GitHub Pages](https://github.com/GiG/open/workflows/GitHub%20Pages/badge.svg?branch=master)](https://github.com/GiG/open/actions?query=workflow%3A%22GitHub+Pages%22) [![Join the chat at https://gitter.im/GiG/open](https://badges.gitter.im/GiG/open.svg)](https://gitter.im/GiG/open?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![GitHub Pages](https://github.com/GiG/open/workflows/GitHub%20Pages/badge.svg?branch=master)](https://github.com/GiG/open/actions?query=workflow%3A%22GitHub+Pages%22) [![GitHub Discuss](https://img.shields.io/badge/GitHub-Discuss-brightgreen)](https://github.com/GiG/open/discussions)
 
 # GiG Open
 
