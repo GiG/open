@@ -10,7 +10,7 @@ The GiG Open Board is a guild of people that moderate GiG's Open Source contribu
 
 The board may be contacted on:
 
-* Chat: [![Gitter](https://badges.gitter.im/GiG/open.svg)](https://gitter.im/GiG/open?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+* Discuss: [GiG/open/discussions](https://github.com/GiG/open/discussions)
 * Email: <open@gig.com>
 
 ## License
