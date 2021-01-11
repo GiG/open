@@ -183,7 +183,9 @@
 
 
 
-<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  
+
+<nav class="md-nav md-nav--primary md-nav--integrated" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
     <a href="/." title="GiG Open" class="md-nav__button md-logo" aria-label="GiG Open">
       
@@ -231,7 +233,7 @@
   <li class="md-nav__item md-nav__item--nested">
     
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" >
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" data-md-state="indeterminate" type="checkbox" id="nav-2" checked>
     
     <label class="md-nav__link" for="nav-2">
       Open Source
@@ -342,7 +344,7 @@
       <div class="md-footer-copyright">
         
           <div class="md-footer-copyright__highlight">
-            GiG Open (0.132.0)
+            GiG Open (0.133.0)
           </div>
         
         Made with
@@ -412,7 +414,7 @@
       <script>
         app = initialize({
           base: "/",
-          features: [],
+          features: ['navigation.instant', 'navigation.expand', 'toc.integrate'],
           search: Object.assign({
             worker: "/assets/javascripts/worker/search.8c7e0a7e.min.js"
           }, typeof search !== "undefined" && search)
