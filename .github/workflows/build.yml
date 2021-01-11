@@ -94,27 +94,3 @@ jobs:
         with:
           name: site
           path: ./site
-          
-      - name: Zip Release
-        run: |
-          zip -r site.zip site/*
-
-      - name: Create a Release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ steps.gitversion.outputs.semVer }}
-          release_name: GiG Open ${{ steps.gitversion.outputs.semVer }}
-          prerelease: true
-          
-      - name: Upload a Release Asset
-        uses: actions/upload-release-asset@v1.0.2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./site.zip
-          asset_name: site.zip
-          asset_content_type: application/zip
