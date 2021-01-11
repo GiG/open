@@ -8,6 +8,10 @@ theme:
         scheme: preference
     logo: assets/images/GiG logo_vector-04.svg
     custom_dir: overrides
+    features:
+     - navigation.instant
+     - navigation.expand
+     - toc.integrate
 nav:
     - Welcome: index.md
     - Open Source:
