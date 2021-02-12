@@ -16,8 +16,48 @@
         }
     ],
     "theme_color": "#0040ae",
-    "lang" : "English",
+    "lang": "English",
     "background_color": "#0040ae",
     "display": "standalone",
-    "start_url": "/"
+    "start_url": "/",
+    "orientation": "any",
+    "categories": [
+        "productivity",
+        "business"
+    ],
+    "screenshots": [
+        {
+            "src": "/assets/images/screenshots/screen1.jpg",
+            "sizes": "1440x3168",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "/assets/images/screenshots/screen2.jpg",
+            "sizes": "1440x3168",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "/assets/images/screenshots/screen3.jpg",
+            "sizes": "1440x3168",
+            "type": "image/jpeg"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Using Open Source Software",
+            "url": "/open-source/using/"
+        },
+        {
+            "name": "Contributing to Third-Party Open Source Software",
+            "url": "/open-source/contributing/"
+        },
+        {
+            "name": "Forking a Third-Party Repository",
+            "url": "/open-source/forking/"
+        },
+        {
+            "name": "Creating Open Source Software",
+            "url": "/open-source/creating/"
+        }
+    ]
 }
