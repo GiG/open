@@ -1,4 +1,5 @@
-[![GitHub Pages](https://github.com/GiG/open/workflows/GitHub%20Pages/badge.svg?branch=master)](https://github.com/GiG/open/actions?query=workflow%3A%22GitHub+Pages%22) [![GitHub Discuss](https://img.shields.io/badge/GitHub-Discuss-brightgreen)](https://github.com/GiG/open/discussions)
+[![GitHub Pages](https://github.com/GiG/open/workflows/GitHub%20Pages/badge.svg?branch=master)](https://github.com/GiG/open/actions?query=workflow%3A%22GitHub+Pages%22) [![GitHub Discuss](https://img.shields.io/badge/GitHub-Discuss-brightgreen)](https://github.com/GiG/open/discussions)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGiG%2Fopen.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FGiG%2Fopen?ref=badge_shield)
+
 
 # GiG Open
 
@@ -53,3 +54,7 @@ docker run --rm -it -v "%cd%":/src -p 8000:8000 gig-open
 ```sh
 docker run --rm -it -v ${PWD}:/src -p 8000:8000 gig-open
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGiG%2Fopen.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGiG%2Fopen?ref=badge_large)
