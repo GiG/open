@@ -93,7 +93,7 @@ jobs:
           path: ./site
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3.9.1
+        uses: peaceiris/actions-gh-pages@v3.9.2
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
