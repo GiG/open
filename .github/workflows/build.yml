@@ -41,13 +41,13 @@ jobs:
         run: python3 -m pip install -r ./requirements.txt
 
       - name: Install GitVersion
-        uses: gittools/actions/gitversion/setup@v3.1.8
+        uses: gittools/actions/gitversion/setup@v3.1.11
         with:
           versionSpec: '5.x'
 
       - name: Use GitVersion
         id: gitversion # step id used as reference for output values
-        uses: gittools/actions/gitversion/execute@v3.1.8
+        uses: gittools/actions/gitversion/execute@v3.1.11
       - run: |
           echo "Major: ${{ steps.gitversion.outputs.major }}"
           echo "Minor: ${{ steps.gitversion.outputs.minor }}"
